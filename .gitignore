@@ -27,6 +27,14 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
 
 # Thumbnails
 ._*
@@ -45,3 +53,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.bin
+*.properties
+.gradle/2.10/taskArtifacts/cache.properties.lock
+*.lock
+.idea/.name
